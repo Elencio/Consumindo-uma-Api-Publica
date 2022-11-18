@@ -4,6 +4,21 @@
     max-width: 800px;
 }
 
+button {
+  background-color: white;
+  border: 1px solid black;
+  margin: 5px;
+}
+
+button:hover {
+  background-color: rgb(90, 86, 81);
+}
+
+
+.pagination{
+  padding: 5px;
+  text-align: center;
+}
 .container1 {
   text-align: center;
   text-transform: uppercase;
